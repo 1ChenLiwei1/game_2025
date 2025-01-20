@@ -1,18 +1,3 @@
-ChatGPT
-
-您说：
-用Python写一个Galaxian游戏
-ChatGPT 说：
-ChatGPT
-创建一个简单的Galaxian游戏涉及多个部分，包括图形渲染、事件处理和游戏逻辑。为了简化起见，我们可以使用Python的pygame库来处理图形和事件。
-
-下面是一个基本的Galaxian游戏框架，包含玩家控制的飞船、敌人飞船的生成以及基础的碰撞检测和得分系统。
-
-安装 Pygame
-首先，你需要安装pygame库：
-
-pip install pygame
-完整代码示例：
 import pygame
 import random
 import sys
